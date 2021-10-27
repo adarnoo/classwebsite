@@ -59,6 +59,7 @@ a:hover {
   width: 80%;
   margin: 0 10%;
   border: solid;
+  border-width: 2px;
 }
 
 .sm-image--categories {
