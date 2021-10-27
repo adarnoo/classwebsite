@@ -60,12 +60,77 @@ a:hover {
   margin: 0 10%;
   border: solid lime;
   border-width: 2px;
+  display: none;
 }
 
-.sm-image--categories {
-    display: none;
+.sm-image-showing--thehunger .sm-image--thehunger {
+ display: block;
+}
+
+.sm-image-showing--blackhole .sm-image--blackhole {
+ display: block;
+}
+
+.sm-image-showing--droptheneedle .sm-image--droptheneedle {
+ display: block;
+}
+
+.sm-image-showing--spheres .sm-image--spheres {
+ display: block;
+}
+
+.sm-image-showing--inferno .sm-image--inferno {
+ display: block;
+}
+
+.sm-image-showing--shadowpuppet .sm-image--shadowpuppet {
+ display: block;
+}
+
+.sm-image-showing--perspectivecollage .sm-image--perspectivecollage {
+ display: block;
+}
+
+.sm-image-showing--theshining .sm-image--theshining {
+ display: block;
+}
+
+.sm-image-showing--blueskywhitecloud .sm-image--blueskywhitecloud {
+ display: block;
+}
+
+.sm-image-showing--cunninghamarchives .sm-image--cunninghamarchives {
+ display: block;
+}
+
+.sm-image-showing--thecolourcollection .sm-image--thecolourcollection {
+ display: block;
+}
+
+.sm-image-showing--collageboard .sm-image--collageboard {
+ display: block;
+}
+
+.sm-image-showing--click .sm-image--click {
+ display: block;
+}
+
+.sm-image-showing--minimalist .sm-image--minimalist {
+ display: block;
+}
+
+.sm-image-showing--dontforgettohavefun .sm-image--dontforgettohavefun {
+ display: block;
 }
 
 .sm-image-showing--categories .sm-image--categories {
+ display: block;
+}
+
+.sm-image-showing--artofsport .sm-image--artofsport {
+ display: block;
+}
+
+.sm-image-showing--sommarsolstice .sm-image--sommarsolstice {
  display: block;
 }
