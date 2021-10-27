@@ -40,7 +40,7 @@ a:hover {
 
 .sm-links-container {
   position: absolute;
-  top: 10%;
+  top: 7%;
   left: 5%;
   width: 90%;
 }
@@ -51,13 +51,20 @@ a:hover {
   left: 50%;
   width: 50%;
   height: 1000px;
-  background-color: black;
 }
 
-.sm-adriano-image {
-  opacity: 0;
+.sm-image {
+  position: absolute;
+  top: 15%;
+  width: 80%;
+  margin: 0 10%;
+  border: solid;
 }
 
-.sm-adriano-link:hover + #sm-adriano-image {
-  opacity: 1;
+.sm-image--categories {
+    display: none;
+}
+
+.sm-image-showing--categories .sm-image--categories {
+ display: block;
 }
